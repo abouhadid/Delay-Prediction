@@ -15,7 +15,7 @@ The dataset, sourced from Kaggle, originates from the U.S. Department of Transpo
 
 The two target variables we are trying to predict are: 
 * *'delay_departure'*: represents the time by which a flight departs later than the originally scheduled departure time. It is calculated as the difference between the actual departure time and the scheduled departure time. A positive value indicates a delay, while a negative value indicates an early departure.
-* *'delay_departure'*: represents the time by which a flight arrives later than the originally scheduled arrival time. It is calculated as the difference between the actual arrival time and the scheduled arrival time. Similar to 'delay_departure', a positive value indicates a delay, while a negative value indicates an early arrival.
+* *'delay_arrival'*: represents the time by which a flight arrives later than the originally scheduled arrival time. It is calculated as the difference between the actual arrival time and the scheduled arrival time. Similar to 'delay_departure', a positive value indicates a delay, while a negative value indicates an early arrival.
 
 -------------------------------------------------------------
 **MODELS:**
